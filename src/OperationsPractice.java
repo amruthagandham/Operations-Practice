@@ -15,6 +15,7 @@ public class OperationsPractice {
 	System.out.println("subtracted 6:" + number);
 		number = number % 2;
 	System.out.println("modularly divide it by 2:" + number);
+	//I made changes
 	
 	
 
